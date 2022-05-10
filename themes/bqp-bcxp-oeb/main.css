@@ -1,0 +1,32 @@
+
+
+/* These first two will set white boxes on the Google Meet intro page*/
+.KieQAe { 
+    background: white !important; 
+} 
+
+.QkY02 { 
+background: white !important; 
+} 
+
+/* This sets the background of main content area in the call*/
+.T4LgNb { 
+    background: #bdf46c7d url("https://raw.githubusercontent.com/ShopSid/meet-immersion-css/main/themes/bqp-bcxp-oeb/bliss.jpeg") !important;
+} 
+
+/* This sets the background for the little bar at the bottom*/
+.P9KVBf {
+    background: #48ff5a7d !important;
+}
+
+/* This sets everything related to the individual people views*/
+.AwnI1b {
+    border-radius: 0px !important;
+    transform: scale(.8)!important;
+    border: white!important;
+    border-width: 20px!important;
+    border-style: solid!important;
+    background: #67e7ddb5;
+}
+
+
