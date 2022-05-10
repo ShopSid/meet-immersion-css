@@ -18,14 +18,14 @@ background: white !important;
 
 /* This sets the background for the little bar at the bottom*/
 .P9KVBf {
-    background: linear-gradient(to top , #bdf46c7d, #0000007d) !important;
+    background: linear-gradient(to top , #f7ffc9, #145510) !important;
 }
 
 /* This sets everything related to the individual people views*/
 .AwnI1b {
     border-radius: 30px !important;
     transform: scale(.8)!important;
-    border-image: linear-gradient(to right, rgb(255, 255, 255), rgb(0, 11, 6)) 1 !important;
+    border-image: linear-gradient(to top right, rgb(255, 255, 255), rgb(0, 11, 6)) 1 !important;
     border-width: 20px!important;
     border-style: solid!important;
     background: #67e7ddb5;
