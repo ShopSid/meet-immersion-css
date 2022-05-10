@@ -25,7 +25,10 @@ background: white !important;
 .AwnI1b {
     border-radius: 0px !important;
     transform: scale(.8)!important;
-    border: white!important;
+    border-left: white!important;
+    border-top: #e4e4e4!important;
+    border-bottom: #cbd3e1!important;
+    border-right: #a7a7a7!important;
     border-width: 20px!important;
     border-style: solid!important;
     background: #353742b5;
