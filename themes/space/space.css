@@ -24,9 +24,9 @@ background: white !important;
 /* This sets everything related to the individual people views*/
 .AwnI1b {
     border-radius: 200px !important;
-    transform: scale(1)!important;
-    border: white!important;
-    border-width: 3px!important;
+    transform: scale(.9)!important;
+    border: #7b96c1!important;
+    border-width: 10px!important;
     border-style: solid!important;
     background: #353742b5;
 }
