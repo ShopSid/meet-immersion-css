@@ -12,6 +12,8 @@ background: white !important;
 /* This sets the background of main content area in the call*/
 .T4LgNb { 
     background: #4e4e397d url("https://raw.githubusercontent.com/ShopSid/meet-immersion-css/main/themes/picture-wall/wood-wall.jpeg") !important;
+    background-repeat: no-repeat;
+    background-size: auto;
 } 
 
 /* This sets the background for the little bar at the bottom*/
