@@ -1,0 +1,37 @@
+
+
+/* These first two will set white boxes on the Google Meet intro page*/
+.KieQAe { 
+    background: white !important; 
+} 
+
+.QkY02 { 
+background: white !important; 
+} 
+
+/* This sets the background of main content area in the call*/
+.T4LgNb { 
+    background: #4e4e397d url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg/2560px-Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg") !important;
+    background-repeat: no-repeat;
+    background-size: auto;
+} 
+
+/* This sets the background for the little bar at the bottom*/
+.P9KVBf {
+    background: #7b96c1 !important;
+}
+
+/* This sets everything related to the individual people views*/
+.AwnI1b {
+    border-radius: 200px !important;
+    transform: scale(1)!important;
+    border: white!important;
+    border-width: 3px!important;
+    border-style: solid!important;
+    background: #353742b5;
+}
+
+/* This sets everything related to the username in the grid*/
+.XEazBc { 
+    padding-left:100px !important; 
+}
