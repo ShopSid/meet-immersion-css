@@ -18,7 +18,7 @@ background: white !important;
 
 /* This sets the background for the little bar at the bottom*/
 .P9KVBf {
-    background: #004d08c0 !important;
+    background: linear-gradient(to top , #bdf46c7d, #0000007d) !important;
 }
 
 /* This sets everything related to the individual people views*/
