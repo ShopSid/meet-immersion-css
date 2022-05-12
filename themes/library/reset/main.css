@@ -11,7 +11,7 @@ background: white !important;
 
 /* This sets the background of main content area in the call*/
 .T4LgNb { 
-    background: black!important;
+    background: #202124!important;
     background-repeat: no-repeat;
     background-size: auto;
 } 
@@ -20,12 +20,12 @@ background: white !important;
 
 /* This sets the background for the little bar at the bottom*/
 .P9KVBf {
-    background: black !important;
+    background: #202124 !important;
 }
 
 /* This sets everything related to the individual people views*/
 .AwnI1b {
-    border-radius: 20px !important;
+    border-radius: 10px !important;
     transform: scale(1)!important;
     border: black!important;
     border-width: 0px!important;
