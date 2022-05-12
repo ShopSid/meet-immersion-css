@@ -1,0 +1,39 @@
+
+
+/* These first two will set white boxes on the Google Meet intro page*/
+.KieQAe { 
+    background: white !important; 
+} 
+
+.QkY02 { 
+background: white !important; 
+} 
+
+/* This sets the background of main content area in the call*/
+.T4LgNb { 
+    background: black!important;
+    background-repeat: no-repeat;
+    background-size: auto;
+} 
+
+
+
+/* This sets the background for the little bar at the bottom*/
+.P9KVBf {
+    background: black !important;
+}
+
+/* This sets everything related to the individual people views*/
+.AwnI1b {
+    border-radius: 20px !important;
+    transform: scale(1)!important;
+    border: black!important;
+    border-width: 0px!important;
+    border-style: solid!important;
+    background: black !important;
+}
+
+/* This sets everything related to the username in the grid*/
+.XEazBc { 
+    padding-left:0px !important; 
+}
